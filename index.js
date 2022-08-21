@@ -6,7 +6,7 @@ class Easy{
         const length = this.codelouieasy.length
         let pos = 0
         let tokens = []
-        const BUILT_IN_KEYWORDS = ["put", "print", "println"]
+        const BUILT_IN_KEYWORDS = ["put", "print", "println", "var"]
         const varChars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_'
         let line = 1
         let column = 0
@@ -141,6 +141,8 @@ class Easy{
 }
 const codelouieasy = 
 `
+var text = "loui"
+put text
 put "loui1"
 print "loui2"
 println "loui3"
