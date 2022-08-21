@@ -9,5 +9,5 @@
   <h1></h1>
 <a href="https://nodejs.org/dist/v16.17.0/node-v16.17.0-x64.msi">dwonload nodejs</a>
 <h1>News:</h1>
-<p>added <code>var</code></p>
+<p>added <code>var</code> put text || <code>var text = "loui"</code></p>
 </div>
