@@ -1,5 +1,5 @@
 <div class="center" align=center>
-<h1>Programming language(javascript) \ by louiml.net</h1>
+<h1>Programming language(javascript) \ by louiml.com(Funmmer)</h1>
 <p>print "hello world" || hello world</p>
 <p>println "hello world" || hello world</p>
 <p>put "hello world" || hello world</p>
