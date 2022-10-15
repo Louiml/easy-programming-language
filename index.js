@@ -6,7 +6,7 @@ class Easy{
         const length = this.codelouieasy.length
         let pos = 0
         let tokens = []
-        const BUILT_IN_KEYWORDS = ["put", "print", "println", "var"]
+        const BUILT_IN_KEYWORDS = ["send", "var"]
         const varChars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_'
         let line = 1
         let column = 0
@@ -79,7 +79,7 @@ class Easy{
 
         while(pos < len){
             const token = tokens[pos]
-            if(token.type === "keyword" && token.value === "put", "print", "println"){
+            if(token.type === "keyword" && token.value === "send"){
                 if(!tokens[pos + 1]){
                     return console.log("Unexpected end of line, expected string")
                 }
