@@ -3,7 +3,7 @@
 <p>print "hello world" || hello world</p>
 <p>println "hello world" || hello world</p>
 <p>put "hello world" || hello world</p>
-<img src="https://readme-typing-svg.herokuapp.com?font=impact&size=25&pause=1000&color=FFFFFF&width=200&lines=easy+to+make"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=impact&size=25&pause=1000&color=FFFFFF&width=200&lines=easy+to+use"/>
 <h1>how to start</h1>
 <code>node .</code>
   <h1></h1>
