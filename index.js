@@ -142,10 +142,8 @@ class Easy{
 const codelouieasy = 
 `
 var text = "loui"
-put text
-put "loui1"
-print "loui2"
-println "loui3"
+send text
+send "Hello, World!"
 `
 const easy = new Easy(codelouieasy)
 easy.run()
